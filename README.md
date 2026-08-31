@@ -26,7 +26,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=k-ullas-kumar&icon=1&color=3)](https://visitcount.itsvg.in)
+<img src="./Cover Photo 2.png" alt="Ullas Kumar - DevOps & Cloud Engineer" width="100%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://komarev.com/ghpvc/?username=k-ullas-kumar&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
