@@ -1,5 +1,24 @@
 <img src="./Cover Photo github.png" alt="Ullas Kumar - DevOps & Cloud Engineer" width="100%">
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&color=0:7c3aed,100:06b6d4&text=Er.+Ullas+Kumar&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=60&desc=DevOps%20%2F%2F%20Cloud%20%2F%2F%20Automation&descAlignY=85&descSize=14" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=spinning+up+infra+that+doesn%27t+break;automating+the+boring+stuff;works+on+my+machine+%E2%86%92+works+in+production;" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,nginx,linux,bash,python,git,grafana,prometheus&theme=dark" />
+
+</div>
+
+<br>
+
+<br>
+
 # 💫 About Me:
 👋 Hi, I'm Ullas Kumar.<br>An aspiring DevOps & Cloud Engineer passionate about cloud infrastructure, automation, and building reliable deployment workflows. Graduate with a Bachelor of Engineering in Information Science & Engineering.<br><br>☁️ I have hands-on experience with AWS, Terraform, Docker, Kubernetes, Jenkins, and GitHub, with a strong focus on Infrastructure as Code, CI/CD, GitOps, containerization, DevSecOps, and cloud automation.<br><br>🐧 I have a strong foundation in Linux, networking, Git, and version control, and I’m continuously strengthening my skills by building and working on real-world DevOps projects.<br><br>🔭 Currently working on: An end-to-end DevSecOps project deploying a Netflix-like application on Kubernetes using AWS, Docker, Jenkins, SonarQube, Trivy, Kubernetes, Argo CD, Prometheus, and Grafana.<br><br>👯 Looking to collaborate on: DevOps, AWS, Cloud, Infrastructure as Code, CI/CD, Kubernetes, and automation projects.<br><br>🤝 Looking for help with: Learning real-world DevOps practices, cloud architecture, and industry best practices from experienced engineers.<br><br>🌱 Currently learning: Advanced AWS, Terraform, Kubernetes, CI/CD, GitOps, DevSecOps, Python for DevOps, and Observability.<br><br>💬 Ask me about: AWS, Linux, Terraform, Docker, Kubernetes, Git/GitHub, and CI/CD.<br><br>🎯 My goal: To build scalable, secure, reliable, and repeatable cloud environments and grow into a strong DevOps/Cloud Engineer.<br><br>⚡ Fun fact: I enjoy turning manual processes into automated workflows — and sometimes breaking things just to learn how to fix them. 🚀
 
