@@ -4,6 +4,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&color=0:7c3aed,100:06b6d4&text=Er.+Ullas+Kumar&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=60&desc=DevOps%20%2F%2F%20Cloud%20%2F%2F%20Automation&descAlignY=85&descSize=14" width="100%"/>
 
+<p align="center">
+  <a href="https://linkedin.com/in/k-ullas-kumar">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="25" height="25" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:k.ullaskumar19@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="25" height="25" alt="Email"/>
+  </a>
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=spinning+up+infra+that+doesn%27t+break;automating+the+boring+stuff;works+on+my+machine+%E2%86%92+works+in+production;" />
 </div>
 
